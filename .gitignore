@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.idea/
+sample_data/
+*.csv
+*.xlsx
+*.log
+.DS_Store
